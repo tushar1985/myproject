@@ -18,5 +18,7 @@ class Excep{
         }catch(Exception m){System.out.println("Exception occured: "+m);}
 
         System.out.println("rest of the code...");
+
+        // my coding platform is intellij
     }
 }
